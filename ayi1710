@@ -1,0 +1,5 @@
+---
+version: 1.0.0
+codeOwners:
+  - '0x74A74b63011250Fb881De41400b9Ff13306BC469'
+quorum: 1
